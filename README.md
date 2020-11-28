@@ -2,11 +2,11 @@
 I was once upon a time asked to make a shareable repository of all my memes. So why not? Let's give this a try.
 
 ## Evolution: Part 1
-In and around July of 2019, around the time I was graduating from University -- @ArtiePendragon found my meme stash and decided he would make good use of GitHub's pull request feature to suggest new memes for the repository.
+In and around July of 2019, around the time I was graduating from University -- @Lord-Zukofound my meme stash and decided he would make good use of GitHub's pull request feature to suggest new memes for the repository.
 
 I would like to stress that this is the most encouraged way (then and more so, now) to suggest new memes for the upcoming site. But I'm getting ahead of myself.
 
-Around the same time as Mr. Lord Gaara made these suggestions, some friends of @MadIceTea suggested that a meme repository in GitHub on its own might not be so impressive to potential employers. So, the project was made private and put on hold for a while during a job hunt.
+Around the same time as he made these suggestions, some friends of @MadIceTea suggested that a meme repository in GitHub on its own might not be so impressive to potential employers. So, the project was made private and put on hold for a while during a job hunt.
 
 ## Evolution: Part 2
 
